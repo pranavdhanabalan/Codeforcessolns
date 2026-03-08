@@ -20,11 +20,3 @@ PROFILE: https://codeforces.com/profile/mugglekid
 
 ---
 
-## 📁 Structure
-
-Problems are organized by:
-- Contest Number
-- Rating
-- Problem Code
-
-Example:
